@@ -15,8 +15,6 @@
 
 💡 Looking for a job in the **IT field**.
 
-🌱 Learning **fullstack web development**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pier-paolo-penna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pier-paolo-penna" height="30" width="40" /></a>
