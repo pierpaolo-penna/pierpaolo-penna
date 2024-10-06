@@ -7,8 +7,6 @@
 
 👨‍🎓 I graduated in Applied Mathematics at Sapienza university of Rome in July 2023.
 
-📩 How to reach me: **pierpaolo.penna.01998@gmail.com**
-
 <h4>What I am currently doing:</h4>
 
 🏡 Living in **Sweden**.
