@@ -7,6 +7,8 @@
 
 👨‍🎓 I graduated in Applied Mathematics at Sapienza university of Rome in July 2023.
 
+🧑‍💻 I started a degree in Cybersecurity at KTH - Royal Institute of Technology in September 2024
+
 <h4>What I am currently doing:</h4>
 
 🏡 Living in **Sweden**.
